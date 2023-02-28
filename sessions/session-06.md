@@ -9,7 +9,7 @@
 ### Beginner
 
 - [**Job Matching**](../exercises/job-matching/README.md)
-
+- [**Find pair for sum**](../exercises/find-pair-for-sum/README.md  )
 ### Intermediate
 
 - [**Format words into a sentence**](../exercises/format-words/README.md)
